@@ -1,9 +1,23 @@
 ########
 
+No ChatGPT!!
+
 1. Create server
 2. MVC Pattern (Controllers, Models, Routes)..
-3. CRUD Operations (Get, Insert, Update, Delete) -> Getting all products or one product, inserting products, updating and deleting..
+3. CRUD Operations (Get, Insert, Update, Delete)
 4. Log-in system (without sessions and cookies)
 5. Sign-up system
+6. Database connection
+
+
+Functions: (Just server)
+homepage -> With all the products
+productPage -> Showing one product
+buyProduct
+updateProduct
+deleteProduct
+logIn
+signUp
+
 
 ########
